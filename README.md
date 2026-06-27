@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/iarjundixit/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0844-backspace-string-compare](https://github.com/iarjundixit/leetcode/tree/master/0844-backspace-string-compare) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/iarjundixit/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0844-backspace-string-compare](https://github.com/iarjundixit/leetcode/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
@@ -29,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/iarjundixit/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/iarjundixit/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
