@@ -30,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/iarjundixit/leetcode/tree/master/0015-3sum) |
 | [0055-jump-game](https://github.com/iarjundixit/leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/iarjundixit/leetcode/tree/master/0118-pascals-triangle) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/iarjundixit/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/iarjundixit/leetcode/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/iarjundixit/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/iarjundixit/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
