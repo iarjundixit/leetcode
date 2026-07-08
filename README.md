@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/iarjundixit/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/iarjundixit/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0844-backspace-string-compare](https://github.com/iarjundixit/leetcode/tree/master/0844-backspace-string-compare) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/iarjundixit/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/iarjundixit/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/iarjundixit/leetcode/tree/master/0009-palindrome-number) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/iarjundixit/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/iarjundixit/leetcode/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/iarjundixit/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
