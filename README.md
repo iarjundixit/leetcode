@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/iarjundixit/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/iarjundixit/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/iarjundixit/leetcode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/iarjundixit/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0844-backspace-string-compare](https://github.com/iarjundixit/leetcode/tree/master/0844-backspace-string-compare) |
 ## String
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/iarjundixit/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/iarjundixit/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/iarjundixit/leetcode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/iarjundixit/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0055-jump-game](https://github.com/iarjundixit/leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/iarjundixit/leetcode/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/iarjundixit/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
