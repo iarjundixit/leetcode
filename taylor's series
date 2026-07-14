@@ -1,0 +1,31 @@
+#include <iostream>
+using namespace std;
+
+double e(double x, double n)
+{
+     static double p = 1, f = 1;
+     double r = 1;
+
+     for(; n > 0 ; n--){
+          r = 1 + x/n * r;
+     }
+     return r;
+     // if (n == 0)
+     //      return (1);
+
+     // else
+     // {
+     //      r = e(x, n - 1);
+     //      p = p * x;
+     //      f = f * n;
+     //      return (r + p / f);
+     // }
+}
+
+int main()
+{
+     int x = 2;
+     double a = e(x, 12);
+     cout << a << endl;
+     return 0;
+}
