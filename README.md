@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iarjundixit/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/iarjundixit/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0242-valid-anagram](https://github.com/iarjundixit/leetcode/tree/master/0242-valid-anagram) |
 | [0844-backspace-string-compare](https://github.com/iarjundixit/leetcode/tree/master/0844-backspace-string-compare) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/iarjundixit/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iarjundixit/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/iarjundixit/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/iarjundixit/leetcode/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/iarjundixit/leetcode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/iarjundixit/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/iarjundixit/leetcode/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
