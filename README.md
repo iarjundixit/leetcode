@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/iarjundixit/leetcode/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/iarjundixit/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/iarjundixit/leetcode/tree/master/0169-majority-element) |
+| [0877-stone-game](https://github.com/iarjundixit/leetcode/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/iarjundixit/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/iarjundixit/leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/iarjundixit/leetcode/tree/master/0118-pascals-triangle) |
+| [0877-stone-game](https://github.com/iarjundixit/leetcode/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/iarjundixit/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/iarjundixit/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/iarjundixit/leetcode/tree/master/0050-powx-n) |
+| [0877-stone-game](https://github.com/iarjundixit/leetcode/tree/master/0877-stone-game) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/iarjundixit/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Greedy
 |  |
@@ -109,4 +112,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/iarjundixit/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/iarjundixit/leetcode/tree/master/0050-powx-n) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/iarjundixit/leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/iarjundixit/leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/iarjundixit/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
